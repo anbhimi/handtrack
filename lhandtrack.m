@@ -164,6 +164,8 @@ adisterd=imerode(adistdil,seerd);
 figure(14)
 imshow(adisterd);title('Dilation and erosion');
 
+%yet to implement correctly
+
 %mean1=mean(onedist);
 %meandist=mean(mean1);
 %maxdist=zeros(imht,imwt);
